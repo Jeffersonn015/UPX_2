@@ -1,4 +1,4 @@
-# PLATAFORMA DIGITAL PARA MONITORAMENTO DE PROCESSOS
+# PLATAFORMA DIGITAL PARA CONSULTA DE PROCESSOS
 
 O sistema em Java gerencia dados de diversos tipos de veículos, incluindo automóveis, motocicletas, caminhões, bicicletas e skates, com atributos como modelo, ano, montadora e características específicas, todos encapsulados e validados, possuindo construtores e métodos para inserção de dados em tabelas correspondentes. 
 
