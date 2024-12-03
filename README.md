@@ -47,4 +47,31 @@ O sistema em Java gerencia dados de diversos tipos de veículos, incluindo autom
 # ✒ Autor 
 
 - Jefferson Oliveira
+- 
+# 🖼️ Imagens do Projeto
+
+- Abaixo estão algumas imagens das telas e funcionalidades do projeto em Java:
+  
+![image](https://github.com/user-attachments/assets/e307e1e7-ee14-4f39-9825-b2a89924057e)
+
+![image](https://github.com/user-attachments/assets/3c392037-0a6a-4fef-acf1-0894ad69e1c3)
+
+![image](https://github.com/user-attachments/assets/4a90767e-9ea3-4a01-bdf8-ad05f368c93f)
+
+![image](https://github.com/user-attachments/assets/02e3271d-204f-4ac0-96dc-68198ca27bad)
+
+![image](https://github.com/user-attachments/assets/45d75f97-370a-4b18-9e44-13279cd5ff7f)
+
+![image](https://github.com/user-attachments/assets/a50097d0-d2f3-475b-8df6-2aac10cf4398)
+
+- Abaixo estão algumas imagens das telas e funcionalidades do projeto no Figma :
+  
+![image](https://github.com/user-attachments/assets/44196d15-c3dd-4e45-9ce8-45d5d84fe795)
+
+![image](https://github.com/user-attachments/assets/d445fa5a-15c2-48e7-aac0-5f86ad80b581)
+
+![image](https://github.com/user-attachments/assets/2320b760-4ebf-4310-9f7a-a4bc6a6c6fb0)
+
+![image](https://github.com/user-attachments/assets/7f6abd1f-50c7-40be-b9fe-31a3f3558e47)
+
 
