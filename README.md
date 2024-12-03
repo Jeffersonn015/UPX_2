@@ -47,7 +47,7 @@ O sistema em Java gerencia dados de diversos tipos de veículos, incluindo autom
 # ✒ Autor 
 
 - Jefferson Oliveira
-- 
+  
 # 🖼️ Imagens do Projeto
 
 - Abaixo estão algumas imagens das telas e funcionalidades do projeto em Java:
