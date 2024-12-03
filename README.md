@@ -1,6 +1,6 @@
 # PLATAFORMA DIGITAL PARA CONSULTA DE PROCESSOS
 
-O sistema em Java gerencia dados de diversos tipos de veículos, incluindo automóveis, motocicletas, caminhões, bicicletas e skates, com atributos como modelo, ano, montadora e características específicas, todos encapsulados e validados, possuindo construtores e métodos para inserção de dados em tabelas correspondentes. 
+Este projeto consiste em uma plataforma digital desenvolvida em Java, voltada para o acompanhamento de processos administrativos de prefeituras. A solução simplifica o acesso às informações e permite que cidadãos e microempresas acompanhem o status de seus processos de forma prática e eficiente. 
 
 # 🚀 Começando 
 
